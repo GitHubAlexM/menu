@@ -1,0 +1,319 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R3 Graphics (ID=0x9850)
+    Vendor:   ATI
+    VRAM:     1008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.147 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Alexander\Desktop\NewLittleSpy-master\Build\TestBuildMenu_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c52c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.224398 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1404.
+Total: 1.080634 ms (FindLiveObjects: 0.228552 ms CreateObjectMapping: 0.066684 ms MarkObjects: 0.749491 ms  DeleteObjects: 0.032487 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 8.849123 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 1.835825 ms (FindLiveObjects: 0.127099 ms CreateObjectMapping: 0.090052 ms MarkObjects: 0.837264 ms  DeleteObjects: 0.777418 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.185506 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1377.
+Total: 1.102863 ms (FindLiveObjects: 0.239951 ms CreateObjectMapping: 0.059275 ms MarkObjects: 0.711873 ms  DeleteObjects: 0.088343 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.234196 ms
+
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.940426 ms (FindLiveObjects: 0.081503 ms CreateObjectMapping: 0.039896 ms MarkObjects: 0.479332 ms  DeleteObjects: 0.336843 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.948975 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1404.
+Total: 1.152449 ms (FindLiveObjects: 0.283837 ms CreateObjectMapping: 0.061555 ms MarkObjects: 0.779698 ms  DeleteObjects: 0.023938 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 6.160075 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 1.388980 ms (FindLiveObjects: 0.103161 ms CreateObjectMapping: 0.064974 ms MarkObjects: 0.635499 ms  DeleteObjects: 0.581354 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.562817 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1377.
+Total: 1.641470 ms (FindLiveObjects: 0.338553 ms CreateObjectMapping: 0.107721 ms MarkObjects: 1.060116 ms  DeleteObjects: 0.132229 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.936951 ms
+
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.932446 ms (FindLiveObjects: 0.078083 ms CreateObjectMapping: 0.037047 ms MarkObjects: 0.476482 ms  DeleteObjects: 0.337413 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.905658 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1404.
+Total: 1.162708 ms (FindLiveObjects: 0.271868 ms CreateObjectMapping: 0.060415 ms MarkObjects: 0.801356 ms  DeleteObjects: 0.025647 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 6.203961 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 1.467634 ms (FindLiveObjects: 0.102021 ms CreateObjectMapping: 0.064974 ms MarkObjects: 0.682806 ms  DeleteObjects: 0.613271 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.110842 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1377.
+Total: 1.615822 ms (FindLiveObjects: 0.258759 ms CreateObjectMapping: 0.103731 ms MarkObjects: 1.118252 ms  DeleteObjects: 0.131659 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.850617 ms
+
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.980322 ms (FindLiveObjects: 0.079223 ms CreateObjectMapping: 0.037047 ms MarkObjects: 0.498140 ms  DeleteObjects: 0.363631 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.078355 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1404.
+Total: 1.127941 ms (FindLiveObjects: 0.266739 ms CreateObjectMapping: 0.059845 ms MarkObjects: 0.770009 ms  DeleteObjects: 0.027357 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 7.123869 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 1.503541 ms (FindLiveObjects: 0.103161 ms CreateObjectMapping: 0.065544 ms MarkObjects: 0.719853 ms  DeleteObjects: 0.612131 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.996851 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1377.
+Total: 1.312036 ms (FindLiveObjects: 0.307775 ms CreateObjectMapping: 0.059275 ms MarkObjects: 0.849233 ms  DeleteObjects: 0.092902 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.096240 ms
+
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 1.428877 ms (FindLiveObjects: 0.098602 ms CreateObjectMapping: 0.062695 ms MarkObjects: 0.736382 ms  DeleteObjects: 0.527778 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.905088 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1404.
+Total: 1.228823 ms (FindLiveObjects: 0.296946 ms CreateObjectMapping: 0.060415 ms MarkObjects: 0.844673 ms  DeleteObjects: 0.024508 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 6.946043 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 1.551417 ms (FindLiveObjects: 0.104871 ms CreateObjectMapping: 0.064404 ms MarkObjects: 0.756330 ms  DeleteObjects: 0.622391 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.923897 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1377.
+Total: 1.219704 ms (FindLiveObjects: 0.268448 ms CreateObjectMapping: 0.059275 ms MarkObjects: 0.801356 ms  DeleteObjects: 0.088913 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.148404 ms
+
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 2.045569 ms (FindLiveObjects: 0.079223 ms CreateObjectMapping: 0.037047 ms MarkObjects: 0.561975 ms  DeleteObjects: 1.365042 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.899959 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1404.
+Total: 1.211154 ms (FindLiveObjects: 0.266739 ms CreateObjectMapping: 0.059845 ms MarkObjects: 0.852652 ms  DeleteObjects: 0.029637 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle (UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+  at UnityEngine.Object.Internal_InstantiateSingle (UnityEngine.Object data, Vector3 pos, Quaternion rot) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.Dead () [0x00000] in <filename unknown>:0 
+  at SimpleEnemyScript.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 3.318278 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 1.055556 ms (FindLiveObjects: 0.076943 ms CreateObjectMapping: 0.037617 ms MarkObjects: 0.535757 ms  DeleteObjects: 0.402388 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 1.559967 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 191.
+Total: 0.604722 ms (FindLiveObjects: 0.051295 ms CreateObjectMapping: 0.021088 ms MarkObjects: 0.507830 ms  DeleteObjects: 0.022228 ms)
+
